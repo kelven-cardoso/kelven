@@ -17,3 +17,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelven-cardoso&repo=Skil_Alexa_Dota&theme=dark)](https://kelven-cardoso.github.io/Skil_Alexa_Dota/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelven-cardoso&repo=brinquedo-programavel&theme=dark)](https://kelven-cardoso.github.io/brinquedo-programavel/)
